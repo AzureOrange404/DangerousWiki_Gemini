@@ -1,0 +1,46 @@
+# Welcome
+
+Welcome to the official Rick Dangerous Project Wiki.   
+This wiki mainly functions as a guide for using the Never Ending Edition RetroPie image by Rick Dangerous.
+
+# The Rick Dangerous Project
+
+Rick Dangerous loved playing games on various systems since he was a little kid. When he got into emulation he became obsessed and even released his disk images to be downloaded.   
+  
+  The **Never Ending Edition** (NEE) is the newest creation by Rick Dangerous and it probably will be the last edition produced within this project.
+  
+  It is not completed yet and will recieve some updates. The Never Ending But Ended Edition will then again be available to download.
+
+More about Rick Dangerous and his project in the about  section:
+
+=> ./about.gmi About
+
+## Hardware
+
+=> /hardware/hardware.gmi NEE Recommended
+=> /hardware/ricks_setup.gmi Rick Dangerous' Setup
+
+## How To Guides
+
+=> /guides/beginning.gmi How To Begin
+=> /guides/controller.gmi How To Controller  
+=> /guides/terminal.gmi How To Terminal  
+=> /guides/emulationstation.gmi How To EmulationStation
+=> /guides/games.gmi How To Games
+=> /guides/retropie.gmi How To RetroPie
+=> /guides/kodi.gmi How To Kodi
+
+## Systems'n'Games
+
+=> /systems/current.gmi NEE Included Systems
+=> /systems/future.gmi NEE Future Additions
+=> /systems/genres.gmi NEE Featured Genres
+
+## FAQ
+
+=> /faq.gmi FAQ
+
+## Alterative DNS
+
+This Capsule is also deployed via https under:
+=> https://azureorange404.github.io/DangerousWiki/ DangerousWiki

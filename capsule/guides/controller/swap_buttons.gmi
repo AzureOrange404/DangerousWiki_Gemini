@@ -1,0 +1,27 @@
+```
+         _________________________________
+        |  _____________________________  |
+        | |    _                        | |
+        | |  _| |_           Nintendo   | |
+        | | |_   _|           _    _    | |
+        | |   |_|    == ==   |_|  |_|   | |
+        | |_____________________________| |
+        |_________________________________|
+
+```
+=> /index.gmi Return Home
+=> ../controller.gmi Back to Previous
+
+# How to swap A and B Button in Emulation Station
+_by @RickDangerous_
+
+1. Goto Options  
+
+=> /assets/guides/controller/options.png Arcade Launch Screen
+
+2. Retropie Setup
+3. Configuration / tools
+4. Emulationstation
+5. Swap A/B Buttons in ES (Currently Swapped)
+
+Once you have done the above your need to configure your input again for any controller you wish to be swapped in EmulationStation.

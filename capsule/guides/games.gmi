@@ -1,0 +1,29 @@
+```
+         _________________________________
+        |  _____________________________  |
+        | |    _                        | |
+        | |  _| |_           Nintendo   | |
+        | | |_   _|           _    _    | |
+        | |   |_|    == ==   |_|  |_|   | |
+        | |_____________________________| |
+        |_________________________________|
+
+```
+=> /index.gmi Return Home
+=> ../index.gmi Back to Previous
+
+# How To Games?
+
+## Change Disks
+This guide shows how to change disks on multi-disk-games:
+
+=> ./games/multi_disk_games.gmi Multi-Disk-Games
+
+## New Games
+This guide shows how to add new games to EmulationStation:
+
+=> ./games/new_games.gmi New Games
+
+## Game Manuals
+The available Manuals are directly included to the build itself under:
+> ~/Retropie/GameManuals or so, I can't remember right now

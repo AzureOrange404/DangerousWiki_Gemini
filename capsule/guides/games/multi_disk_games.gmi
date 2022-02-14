@@ -1,0 +1,34 @@
+```
+         _________________________________
+        |  _____________________________  |
+        | |    _                        | |
+        | |  _| |_           Nintendo   | |
+        | | |_   _|           _    _    | |
+        | |   |_|    == ==   |_|  |_|   | |
+        | |_____________________________| |
+        |_________________________________|
+
+```
+=> /index.gmi Return Home
+=> ../games.gmi Back to Previous
+
+# How to change Disks on Multi-Disk-Games
+_by @RickDangerous_
+
+If a game prompts you to change the disk you can do this via the RGUI menu by presing your Hotkey+X and then follow the steps below.
+
+1. Disc Control
+
+=> /assets/guides/games/multi_disk_1.png Disc Control
+
+2. Change Current Disc Index
+
+=> /assets/guides/games/multi_disk_2.png Change Current Disc Index
+
+3. Select Required Disc Number
+
+=> /assets/guides/games/multi_disk_3.png Required Disc Number
+
+4. Insert Disc
+
+=> /assets/guides/games/multi_disk_4.png Insert Disc

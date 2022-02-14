@@ -1,0 +1,31 @@
+```
+         _________________________________
+        |  _____________________________  |
+        | |    _                        | |
+        | |  _| |_           Nintendo   | |
+        | | |_   _|           _    _    | |
+        | |   |_|    == ==   |_|  |_|   | |
+        | |_____________________________| |
+        |_________________________________|
+
+```
+=> /index.gmi Return Home
+=> ../index.gmi Back to Previous
+
+# Featured Genres
+
+The following genres of games are featured in the newest Rick Dangerous Never Ending Edition.
+
+* Action
+* Action-Adventure
+* Adventure
+* Beat'em up
+* Fighting
+* Platform
+* Puzzle 
+* Racing
+* Role Playing Games
+* Shoot'em up
+* Simulation
+* Sports
+* Strategy

@@ -1,0 +1,30 @@
+```
+         _________________________________
+        |  _____________________________  |
+        | |    _                        | |
+        | |  _| |_           Nintendo   | |
+        | | |_   _|           _    _    | |
+        | |   |_|    == ==   |_|  |_|   | |
+        | |_____________________________| |
+        |_________________________________|
+
+```
+=> /index.gmi Return Home
+=> ../index.gmi Back to Previous
+
+# How To Terminal?
+
+## Enter the Terminal
+This guide shows how to enter the Terminal from EmulationStation:
+
+=> ./terminal/enter.gmi Enter Terminal
+
+## Useful Commands
+This guide provides some useful terminal commands:
+
+=> ./terminal/commands.gmi Useful Commands
+
+## Linux directories
+This guide provides information about the Linux directory structure:
+
+=> ./terminal/directories.gmi Linux Directories - EMPTY

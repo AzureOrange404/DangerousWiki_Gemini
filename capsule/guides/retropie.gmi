@@ -1,0 +1,25 @@
+```
+         _________________________________
+        |  _____________________________  |
+        | |    _                        | |
+        | |  _| |_           Nintendo   | |
+        | | |_   _|           _    _    | |
+        | |   |_|    == ==   |_|  |_|   | |
+        | |_____________________________| |
+        |_________________________________|
+
+```
+=> /index.gmi Return Home
+=> ../index.gmi Back to Previous
+
+# How To RetroPie?
+
+## Where is It?
+This guide provides a list with important files and their locations.
+
+=> ./retropie/locations.gmi Files and Locations
+
+## How To Multiplayer?
+This guide shows how to setup RetroPie Netplay and how you play games with your friends.
+
+=> ./retropie/netplay.gmi Online Multiplayer

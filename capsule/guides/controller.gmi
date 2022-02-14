@@ -1,0 +1,44 @@
+```
+	 _________________________________
+	|  _____________________________  |
+	| |    _                        | |
+	| |  _| |_           Nintendo   | |
+	| | |_   _|           _    _    | |
+	| |   |_|    == ==   |_|  |_|   | |
+	| |_____________________________| |
+	|_________________________________|
+
+```
+=> /index.gmi Return Home
+=> ../index.gmi Back to Previous
+
+# How To Controller?
+
+## Initial Setup
+This guide shows how to initially setup the very first USB connected controller on the very first boot of RetroPie:
+
+=> ./controller/initial.gmi Initial Controller Setup
+
+## Swap A/B Buttons
+This guide shows how to swap A and B Buttons in EmulationStation, which are swapped by default and might be really annoying depending on what controller you use:
+
+=> ./controller/swap_buttons.gmi Swap A and B Buttons
+
+## Additional Controller
+
+### USB Controller
+This guide shows how to add an additional USB controller:
+
+=> ./controller/usb.gmi USB Controller Setup
+
+### Bluetooth Controller
+This guide shows how to connect and configure a controller via Bluetooth:
+
+=> ./controller/bluetooth.gmi Bluetooth Controller Setup
+
+## Guides for specific Controllers
+
+=> ./controller/ps4_dualshock.gmi PS4 DualShock Controller
+=> ./controller/8bitdo_pro2.gmi 8BitDo Pro 2
+=> ./controller/xbox_one.gmi XBox One Controller
+

@@ -1,0 +1,40 @@
+```
+         _________________________________
+        |  _____________________________  |
+        | |    _                        | |
+        | |  _| |_           Nintendo   | |
+        | | |_   _|           _    _    | |
+        | |   |_|    == ==   |_|  |_|   | |
+        | |_____________________________| |
+        |_________________________________|
+
+```
+=> /index.gmi Return Home
+=> ../index.gmi Back to Previous
+
+# How To Begin?
+
+## Choose you hardware
+This page provides a list of recommended hardware:
+
+=> ../hardware/hardware.gmi Recommended Hardware
+
+## Verify the Image
+This guide shows how to verify the md5 hash of the image:
+
+=> ./beginning/verify.gmi Verify the Image
+
+## Flash the Image
+This guide shows how to flash the image onto various devices:
+
+=> ./beginning/flash.gmi Flash the Image
+
+## Connect the Raspberry Pi to a display
+This guide shows how to correctly connect the Pi to a display:
+
+=> ./beginning/display.gmi Connect a Display
+
+## Booting from USB
+This guide shows how to boot into RetroPie using various USB devices:
+
+=> ./beginning/boot.gmi Boot from USB

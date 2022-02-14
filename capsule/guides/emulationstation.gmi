@@ -1,0 +1,25 @@
+```
+         _________________________________
+        |  _____________________________  |
+        | |    _                        | |
+        | |  _| |_           Nintendo   | |
+        | | |_   _|           _    _    | |
+        | |   |_|    == ==   |_|  |_|   | |
+        | |_____________________________| |
+        |_________________________________|
+
+```
+=> /index.gmi Return Home
+=> ../index.gmi Back to Previous
+
+# How To EmulationStation?
+
+## ES Runcommand
+This guide shows how to use ES runcommand:
+
+=> ./emulationstation/runcommand.gmi Runcommand
+
+## Hotkeys
+This guide shows how hotkeys function in ES:
+
+=> ./emulationstation/hotkeys.gmi Hotkeys
