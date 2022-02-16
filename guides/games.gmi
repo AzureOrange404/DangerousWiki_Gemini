@@ -26,4 +26,4 @@ This guide shows how to add new games to EmulationStation:
 
 ## Game Manuals
 The available Manuals are directly included to the build itself under:
-> ~/Retropie/GameManuals or so, I can't remember right now
+> /home/pi/Retropie/GameManuals

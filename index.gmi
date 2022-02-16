@@ -18,22 +18,24 @@ This wiki mainly functions as a guide for using the Never Ending Edition RetroPi
 
 ## The Rick Dangerous Project
 
-Rick Dangerous loved playing games on various systems since he was a little kid. When he got into emulation he became obsessed and even released his disk images to be downloaded.   
-  
-  The **Never Ending Edition** (NEE) is the newest creation by Rick Dangerous and it probably will be the last edition produced within this project.
-  
-  It is not completed yet and will recieve some updates. The Never Ending But Ended Edition will then again be available to download.
+Rick Dangerous loved playing games on various systems since he was a little kid. When he got into emulation he became obsessed and eventually released his disk images to be downloaded.
 
-More about Rick Dangerous and his project in the about  section:
+  The **Never Ending Edition** (NEE) is the newest creation by Rick Dangerous and it probably will be the last edition produced within this project.
+
+  It is not completed yet and there will be a final release when it is. More about Rick Dangerous and his project in the about section.
 
 => ./about.gmi About
 
 ## Hardware
 
+The hardware section will be used to primarely share recommendations of hardware to be used with RetroPie and especially the NEE.
+
 => /hardware/hardware.gmi NEE Recommended
 => /hardware/ricks_setup.gmi Rick Dangerous' Setup
 
 ## How To Guides
+
+The How To section functions as a collection of guides by @RickDangerous and the community. These should help to understand basic features and processes in RetroPie and the NEE.
 
 => /guides/beginning.gmi How To Begin
 => /guides/controller.gmi How To Controller  
@@ -45,6 +47,8 @@ More about Rick Dangerous and his project in the about  section:
 
 ## Systems'n'Games
 
+Systems'n'Games is all about the systems and games featured by the Never Ending Edition. For now it only containes lists of systems and game genres, more to come.
+
 => /systems/current.gmi NEE Included Systems
 => /systems/future.gmi NEE Future Additions
 => /systems/genres.gmi NEE Featured Genres
@@ -55,5 +59,5 @@ More about Rick Dangerous and his project in the about  section:
 
 ## Alterative DNS
 
-This Capsule is also deployed via https under:
+This Capsule is also deployed via https on github.io.
 => https://azureorange404.github.io/DangerousWiki/ DangerousWiki
