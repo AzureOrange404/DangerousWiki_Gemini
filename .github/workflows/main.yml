@@ -27,7 +27,7 @@
                                                            
         - name: Install captown tool                       
           run: |                                           
-            curl -O https://capsuletown.eu-central-1.linodeobjects.com/cli/captown-linux
+            curl -O https://capsuletown.eu-central-1.linodeobjects.com/cli/captown-linux-0.1
             chmod +x captown-linux-0.1                     
             mv captown-linux-0.1 /usr/local/bin/captown    
                                                            
