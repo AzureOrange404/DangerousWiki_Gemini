@@ -39,7 +39,7 @@
             ---
             capsules:
               - name: dangerouswiki
-                $TOKEN
+                $CAPSULE_ACCESS_TOKEN
             EOF
                                                            
         # Runs a single command using the runners shell    
