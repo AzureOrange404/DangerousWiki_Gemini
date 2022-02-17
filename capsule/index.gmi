@@ -59,7 +59,7 @@ Systems'n'Games is all about the systems and games featured by the Never Ending 
 
 => /faq.gmi FAQ
 
-## Alterative DNS
+### Visit this capsule in the web
 
-This Capsule is also deployed via https on github.io.
+This Capsule is also deployed to the web via https on github.io.
 => https://azureorange404.github.io/DangerousWiki/ DangerousWiki

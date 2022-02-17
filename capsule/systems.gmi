@@ -1,0 +1,16 @@
+```
+  ,--.   ,--.                        ,--.    ,--.       
+ | oo | |  oo|                      |oo  | _  \  `.    
+ | ~~ | |  ~~|o  o  o  o  o  o  o  o|~~  |(_) /   ; 
+ |/\/\| |/\/\|                      |/\/\|   '._,'        
+```
+
+# Systems
+
+=> /systems/current.gmi NEE Included Systems
+
+=> /systems/future.gmi NEE Future Additions
+
+# Games
+
+=> /systems/games.gmi NEE Featured Genres

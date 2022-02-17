@@ -19,7 +19,7 @@
 ## Choose you hardware
 This page provides a list of recommended hardware:
 
-=> ../hardware/hardware.gmi Recommended Hardware
+=> ../hardware/recommended.gmi Recommended Hardware
 
 ## Verify the Image
 This guide shows how to verify the md5 hash of the image:

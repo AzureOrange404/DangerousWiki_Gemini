@@ -1,0 +1,18 @@
+```
+  ,--.   ,--.                        ,--.    ,--.       
+ | oo | |  oo|                      |oo  | _  \  `.    
+ | ~~ | |  ~~|o  o  o  o  o  o  o  o|~~  |(_) /   ; 
+ |/\/\| |/\/\|                      |/\/\|   '._,'        
+```
+
+# Hardware?
+
+Well you have a Raspberry Pi and an SD Card, that's it right? Or is this just the beginning? Check out what Hardware pieces are recommended and maybe some time we'll add a section about other hardware too.
+
+=> /hardware/recommended.gmi NEE Recommended Hardware
+
+## What does Rick Dangerous use?
+
+Maybe you have asked yourself what Rick Dangerous uses himself, to run RetroPie on. So here you go, a list of everything he has around his Raspberry Pi.
+
+=> /hardware/ricks_setup.gmi RickDangerous' Personal Setup

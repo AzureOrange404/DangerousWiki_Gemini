@@ -1,0 +1,41 @@
+```
+  ,--.   ,--.                        ,--.    ,--.       
+ | oo | |  oo|                      |oo  | _  \  `.    
+ | ~~ | |  ~~|o  o  o  o  o  o  o  o|~~  |(_) /   ; 
+ |/\/\| |/\/\|                      |/\/\|   '._,'        
+```
+
+# How To?
+
+How do I do this? How does that function? Questions we all ask ourselfs and questions which shall be answered in here.
+
+## How to begin?
+
+You have downloaded your first image of RetroPie and you have no idea of what to do with it now? Then this section of How To is for you, it will cover everything that has to be done on the initial setup of RetroPie.
+
+=> /guides/beginning.gmi How To Begin
+
+## How to controller?
+
+=> /guides/controller.gmi How To Controller
+
+## How to terminal?
+
+=> /guides/terminal.gmi How To Terminal
+
+## How to EmulationStation?
+
+=> guides/emulationstation.gmi How To EmulationStation
+
+## How to games?
+
+=> /guides/games.gmi How To Games
+
+## How to RetroPie?
+
+=> /guides/retropie.gmi How To RetroPie
+
+## How to Kodi?
+
+=> /guides/kodi.gmi How To Kodi
+
