@@ -28,36 +28,32 @@ Rick Dangerous loved playing games on various systems since he was a little kid.
 
 => ./about.gmi About
 
+
 ## Hardware
 
 The hardware section will be used to primarely share recommendations of hardware to be used with RetroPie and especially the NEE.
 
-=> /hardware/hardware.gmi NEE Recommended
-=> /hardware/ricks_setup.gmi Rick Dangerous' Setup
+=> hardware.gmi Hardware
 
-## How To Guides
+
+## How To?
 
 The How To section functions as a collection of guides by @RickDangerous and the community. These should help to understand basic features and processes in RetroPie and the NEE.
 
-=> /guides/beginning.gmi How To Begin
-=> /guides/controller.gmi How To Controller  
-=> /guides/terminal.gmi How To Terminal  
-=> /guides/emulationstation.gmi How To EmulationStation
-=> /guides/games.gmi How To Games
-=> /guides/retropie.gmi How To RetroPie
-=> /guides/kodi.gmi How To Kodi
+=> guides.gmi How To Guides
+
 
 ## Systems'n'Games
 
 Systems'n'Games is all about the systems and games featured by the Never Ending Edition. For now it only containes lists of systems and game genres, more to come.
 
-=> /systems/current.gmi NEE Included Systems
-=> /systems/future.gmi NEE Future Additions
-=> /systems/genres.gmi NEE Featured Genres
+=> systems.gmi Systems'n'Games
+
 
 ## FAQ
 
 => /faq.gmi FAQ
+
 
 ### Visit this capsule in the web
 
