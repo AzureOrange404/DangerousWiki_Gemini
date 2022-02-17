@@ -17,7 +17,7 @@ Hardware recommended by RickDangrous himself is marked with the following mark [
 ## Controller
 
 ### Mayflash F101 [RD]
-==> https://www.mayflash.com/product/showproduct.php?id=32
+=> https://www.mayflash.com/product/showproduct.php?id=32
 
 Pros:  
 - Cheap

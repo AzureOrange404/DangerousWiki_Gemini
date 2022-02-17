@@ -13,4 +13,4 @@
 
 # Games
 
-=> /systems/games.gmi NEE Featured Genres
+=> /systems/genres.gmi NEE Featured Genres
