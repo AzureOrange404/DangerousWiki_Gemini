@@ -29,10 +29,11 @@
           run: |                                           
             curl -O https://capsuletown.eu-central-1.linodeobjects.com/cli/captown-linux-0.1
             chmod +x captown-linux-0.1                     
-            mv captown-linux-0.1 /usr/local/bin/captown    
+            mv captown-linux-0.1 /usr/local/bin/captown
         
         - name: load token
-          env: TOKEN: ${{ secrets.CAPSULE_ACCESS_TOKEN }}
+          env: 
+            CAPSULE_ACCESS_TOKEN: ${{ secrets.CAPSULE_ACCESS_TOKEN }}
           run: |
             cat >> ~/.capsules.yaml<< EOF
             ---
