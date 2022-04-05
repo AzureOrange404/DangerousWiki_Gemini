@@ -3,9 +3,9 @@
   ![Header Image](assets/theme/pacman.png "RickDangerous Header")
 </div>
 
-# Welcome to DangerousWiki
+# Welcome to the Rick Dangerous Wiki
 
-DangerousWiki is the official wiki for the Rick Dangerous RetroPie project.
+The DangerousWiki is the official wiki for the Rick Dangerous RetroPie project.
 
 This Wiki collects guides and information all about the Rick Dangerous Project, RetroPie and hardware recommended for use with RetroPie.
 
